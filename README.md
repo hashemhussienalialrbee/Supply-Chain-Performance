@@ -60,7 +60,8 @@ Enhances dynamic exploration of vendor performance.
 
 ## 🖼 Dashboard Preview
 
-![Vendor Performance](Vendor Performance.png)
+![Vendor Performance](Vendor%20Performance.png)
+
 
 
 ---
